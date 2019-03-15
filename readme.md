@@ -1,4 +1,4 @@
-# Best War Movies
+# Best War Movies Ever Made
 
 A curated list of films about war, battles, and military conflicts.
 
@@ -13,11 +13,13 @@ A curated list of films about war, battles, and military conflicts.
 
 ## World War II
 
-| TITLE                                                        | YEAR | GENRE                  | RATING |
-| ------------------------------------------------------------ | ---- | ---------------------- | ------ |
-| [Dunkirk](https://www.imdb.com/title/tt5013056/)             | 2017 | Action, Drama, History | 7.9/10 |
-| [Enemy at the Gates](https://www.imdb.com/title/tt0215750/)  | 2001 | Drama, History, War    | 7.6/10 |
-| [Fury](https://www.imdb.com/title/tt2713180/)                | 2014 | Action, Drama, War     | 7.6/10 |
-| [Saving Private Ryan](https://www.imdb.com/title/tt0120815/) | 1998 | Drama, War             | 8.6/10 |
+| TITLE                                                        | YEAR | GENRE                   | RATING |
+| ------------------------------------------------------------ | ---- | ----------------------- | ------ |
+| [Atonement](https://www.imdb.com/title/tt0783233/)           | 2007 | Drama, Mystery, Romance | 7.8/10 |
+| [Dunkirk](https://www.imdb.com/title/tt5013056/)             | 2017 | Action, Drama, History  | 7.9/10 |
+| [Enemy at the Gates](https://www.imdb.com/title/tt0215750/)  | 2001 | Drama, History, War     | 7.6/10 |
+| [Fury](https://www.imdb.com/title/tt2713180/)                | 2014 | Action, Drama, War      | 7.6/10 |
+| [Miracle at St. Anna](https://www.imdb.com/title/tt1046997/) | 2008 | Action, Drama, War      | 6.0/10 |
+| [Saving Private Ryan](https://www.imdb.com/title/tt0120815/) | 1998 | Drama, War              | 8.6/10 |
 
 If you want to contribute to this list and make it better, your help is very welcome.
