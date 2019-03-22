@@ -2,6 +2,12 @@
 
 A curated list of films about war, battles, and military conflicts.
 
+## Gulf War
+
+| TITLE                                            | YEAR | GENRE                 | RATING |
+| ------------------------------------------------ | ---- | --------------------- | ------ |
+| [Jarhead](https://www.imdb.com/title/tt0418763/) | 2005 | Biography, Drama, War | 7.0/10 |
+
 ## Vietnam War
 
 | TITLE                                                      | YEAR | GENRE          | RATING |
