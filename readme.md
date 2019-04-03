@@ -31,6 +31,7 @@ A curated list of films about war, battles, and military conflicts.
 | [Atonement](https://www.imdb.com/title/tt0783233/)                  | 2007 | Drama, Mystery, Romance   | 7.8/10 |
 | [Captain Corelli's Mandolin](https://www.imdb.com/title/tt0238112/) | 2001 | Drama, Music, Romance     | 5.9/10 |
 | [Darkest Hour](https://www.imdb.com/title/tt4555426/)               | 2017 | Biography, Drama, History | 7.4/10 |
+| [Die Brücke](https://www.imdb.com/title/tt0052654/)                 | 1959 | Drama, War                | 7.8/10 |
 | [Dunkirk](https://www.imdb.com/title/tt5013056/)                    | 2017 | Action, Drama, History    | 7.9/10 |
 | [Empire of the Sun](https://www.imdb.com/title/tt0092965/)          | 1987 | Drama, History, War       | 7.8/10 |
 | [Enemy at the Gates](https://www.imdb.com/title/tt0215750/)         | 2001 | Drama, History, War       | 7.6/10 |
@@ -42,7 +43,6 @@ A curated list of films about war, battles, and military conflicts.
 | [Miracle at St. Anna](https://www.imdb.com/title/tt1046997/)        | 2008 | Action, Drama, War        | 6.0/10 |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815/)        | 1998 | Drama, War                | 8.6/10 |
 | [Schindler's List](https://www.imdb.com/title/tt0108052/)           | 1993 | Biography, Drama, History | 8.9/10 |
-| [Die Brücke](https://www.imdb.com/title/tt0052654/)                 | 1959 | Drama, War                | 7.8/10 |
 | [The Guns of Navarone](https://www.imdb.com/title/tt0054953/)       | 1961 | Action, Adventure, Drama  | 7.6/10 |
 | [The Pianist](https://www.imdb.com/title/tt0253474/)                | 2002 | Biography, Drama, Music   | 8.5/10 |
 
