@@ -17,12 +17,13 @@ A curated list of films about war, battles, and military conflicts.
 
 ## Vietnam War
 
-| TITLE                                                      | YEAR | GENRE          | RATING |
-| ---------------------------------------------------------- | ---- | -------------- | ------ |
-| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)    | 1979 | Drama, War     | 8.5/10 |
-| [Forrest Gump](https://www.imdb.com/title/tt0109830/)      | 1994 | Drama, Romance | 8.8/10 |
-| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) | 1987 | Drama, War     | 8.3/10 |
-| [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War     | 8.1/10 |
+| TITLE                                                      | YEAR | GENRE                  | RATING |
+| ---------------------------------------------------------- | ---- | ---------------------- | ------ |
+| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)    | 1979 | Drama, War             | 8.5/10 |
+| [Forrest Gump](https://www.imdb.com/title/tt0109830/)      | 1994 | Drama, Romance         | 8.8/10 |
+| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) | 1987 | Drama, War             | 8.3/10 |
+| [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War             | 8.1/10 |
+| [We Were Soldiers](https://www.imdb.com/title/tt0277434/)  | 2002 | Action, Drama, History | 7.2/10 |
 
 ## World War II
 
