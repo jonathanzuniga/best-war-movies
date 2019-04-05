@@ -4,7 +4,7 @@
 
 If you want to contribute to this list and make it better, your help is very welcome.
 
-## African conflicts
+## African Conflicts
 
 | TITLE                                                     | YEAR | GENRE                     | RATING |
 | --------------------------------------------------------- | ---- | ------------------------- | ------ |
