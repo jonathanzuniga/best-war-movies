@@ -1,6 +1,6 @@
 # Best War Movies Ever Made
 
-A curated list of films about war, battles, and military conflicts.
+A curated list of films involving war, battles, rescue missions, and military conflicts.
 
 ## Gulf War
 
@@ -14,6 +14,12 @@ A curated list of films about war, battles, and military conflicts.
 | -------------------------------------------------------- | ---- | ------------------------ | ------ |
 | [American Sniper](https://www.imdb.com/title/tt2179136/) | 2014 | Action, Biography, Drama | 7.3/10 |
 | [The Hurt Locker](https://www.imdb.com/title/tt0887912/) | 2008 | Drama, Thriller, War     | 7.6/10 |
+
+## Unclassified
+
+| TITLE                                                      | YEAR | GENRE                   | RATING |
+| ---------------------------------------------------------- | ---- | ----------------------- | ------ |
+| [Tears of the Sun ](https://www.imdb.com/title/tt0314353/) | 2003 | Action, Drama, Thriller | 6.6/10 |
 
 ## Vietnam War
 
@@ -46,5 +52,6 @@ A curated list of films about war, battles, and military conflicts.
 | [Schindler's List](https://www.imdb.com/title/tt0108052/)           | 1993 | Biography, Drama, History | 8.9/10 |
 | [The Guns of Navarone](https://www.imdb.com/title/tt0054953/)       | 1961 | Action, Adventure, Drama  | 7.6/10 |
 | [The Pianist](https://www.imdb.com/title/tt0253474/)                | 2002 | Biography, Drama, Music   | 8.5/10 |
+| [Windtalkers](https://www.imdb.com/title/tt0245562/)                | 2002 | Action, Drama, War        | 6.0/10 |
 
 If you want to contribute to this list and make it better, your help is very welcome.
