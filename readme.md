@@ -4,6 +4,14 @@
 
 If you want to contribute to this list and make it better, your help is very welcome.
 
+## African conflicts
+
+| TITLE                                                     | YEAR | GENRE                     | RATING |
+| --------------------------------------------------------- | ---- | ------------------------- | ------ |
+| [Black Hawk Down](https://www.imdb.com/title/tt0265086/)  | 2001 | Drama, History, War       | 7.7/10 |
+| [Hotel Rwanda](https://www.imdb.com/title/tt0395169/)     | 2004 | Biography, Drama, History | 8.1/10 |
+| [Tears of the Sun](https://www.imdb.com/title/tt0314353/) | 2003 | Action, Drama, Thriller   | 6.6/10 |
+
 ## Gulf War
 
 | TITLE                                            | YEAR | GENRE                 | RATING |
@@ -16,12 +24,6 @@ If you want to contribute to this list and make it better, your help is very wel
 | -------------------------------------------------------- | ---- | ------------------------ | ------ |
 | [American Sniper](https://www.imdb.com/title/tt2179136/) | 2014 | Action, Biography, Drama | 7.3/10 |
 | [The Hurt Locker](https://www.imdb.com/title/tt0887912/) | 2008 | Drama, Thriller, War     | 7.6/10 |
-
-## Unclassified
-
-| TITLE                                                      | YEAR | GENRE                   | RATING |
-| ---------------------------------------------------------- | ---- | ----------------------- | ------ |
-| [Tears of the Sun ](https://www.imdb.com/title/tt0314353/) | 2003 | Action, Drama, Thriller | 6.6/10 |
 
 ## Vietnam War
 
