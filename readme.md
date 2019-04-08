@@ -25,6 +25,12 @@ If you want to contribute to this list and make it better, your help is very wel
 | [American Sniper](https://www.imdb.com/title/tt2179136/) | 2014 | Action, Biography, Drama | 7.3/10 |
 | [The Hurt Locker](https://www.imdb.com/title/tt0887912/) | 2008 | Drama, Thriller, War     | 7.6/10 |
 
+## Unclassified
+
+| TITLE                                        | YEAR | GENRE                   | RATING |
+| -------------------------------------------- | ---- | ----------------------- | ------ |
+| ['71](https://www.imdb.com/title/tt2614684/) | 2014 | Action, Drama, Thriller | 7.2/10 |
+
 ## Vietnam War
 
 | TITLE                                                      | YEAR | GENRE                        | RATING |
@@ -56,6 +62,7 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Miracle at St. Anna](https://www.imdb.com/title/tt1046997/)        | 2008 | Action, Drama, War        | 6.0/10 |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815/)        | 1998 | Drama, War                | 8.6/10 |
 | [Schindler's List](https://www.imdb.com/title/tt0108052/)           | 1993 | Biography, Drama, History | 8.9/10 |
+| [The Book Thief](https://www.imdb.com/title/tt0816442/)             | 2013 | Drama, War                | 7.6/10 |
 | [The Guns of Navarone](https://www.imdb.com/title/tt0054953/)       | 1961 | Action, Adventure, Drama  | 7.6/10 |
 | [The Pianist](https://www.imdb.com/title/tt0253474/)                | 2002 | Biography, Drama, Music   | 8.5/10 |
 | [Where Eagles Dare](https://www.imdb.com/title/tt0065207/)          | 1968 | Action, Adventure, War    | 7.7/10 |
