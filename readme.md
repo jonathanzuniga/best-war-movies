@@ -27,13 +27,14 @@ If you want to contribute to this list and make it better, your help is very wel
 
 ## Vietnam War
 
-| TITLE                                                      | YEAR | GENRE                  | RATING |
-| ---------------------------------------------------------- | ---- | ---------------------- | ------ |
-| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)    | 1979 | Drama, War             | 8.5/10 |
-| [Forrest Gump](https://www.imdb.com/title/tt0109830/)      | 1994 | Drama, Romance         | 8.8/10 |
-| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) | 1987 | Drama, War             | 8.3/10 |
-| [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War             | 8.1/10 |
-| [We Were Soldiers](https://www.imdb.com/title/tt0277434/)  | 2002 | Action, Drama, History | 7.2/10 |
+| TITLE                                                      | YEAR | GENRE                        | RATING |
+| ---------------------------------------------------------- | ---- | ---------------------------- | ------ |
+| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)    | 1979 | Drama, War                   | 8.5/10 |
+| [Forrest Gump](https://www.imdb.com/title/tt0109830/)      | 1994 | Drama, Romance               | 8.8/10 |
+| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) | 1987 | Drama, War                   | 8.3/10 |
+| [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War                   | 8.1/10 |
+| [Rescue Dawn](https://www.imdb.com/title/tt0462504/)       | 2006 | Action, Adventure, Biography | 7.3/10 |
+| [We Were Soldiers](https://www.imdb.com/title/tt0277434/)  | 2002 | Action, Drama, History       | 7.2/10 |
 
 ## World War II
 
@@ -49,6 +50,7 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Flags of our Fathers](https://www.imdb.com/title/tt0418689/)       | 2006 | Drama, History, War       | 7.1/10 |
 | [Fury](https://www.imdb.com/title/tt2713180/)                       | 2014 | Action, Drama, War        | 7.6/10 |
 | [Hacksaw Ridge](https://www.imdb.com/title/tt2119532/)              | 2016 | Biography, Drama, History | 8.1/10 |
+| [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)       | 2009 | Adventure, Drama, War     | 8.3/10 |
 | [Letters from Iwo Jima ](https://www.imdb.com/title/tt0498380/)     | 2006 | Drama, History, War       | 7.9/10 |
 | [Life Is Beautiful](https://www.imdb.com/title/tt0118799/)          | 1997 | Comedy, Drama, Romance    | 8.6/10 |
 | [Miracle at St. Anna](https://www.imdb.com/title/tt1046997/)        | 2008 | Action, Drama, War        | 6.0/10 |
@@ -56,5 +58,5 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Schindler's List](https://www.imdb.com/title/tt0108052/)           | 1993 | Biography, Drama, History | 8.9/10 |
 | [The Guns of Navarone](https://www.imdb.com/title/tt0054953/)       | 1961 | Action, Adventure, Drama  | 7.6/10 |
 | [The Pianist](https://www.imdb.com/title/tt0253474/)                | 2002 | Biography, Drama, Music   | 8.5/10 |
-| [Windtalkers](https://www.imdb.com/title/tt0245562/)                | 2002 | Action, Drama, War        | 6.0/10 |
 | [Where Eagles Dare](https://www.imdb.com/title/tt0065207/)          | 1968 | Action, Adventure, War    | 7.7/10 |
+| [Windtalkers](https://www.imdb.com/title/tt0245562/)                | 2002 | Action, Drama, War        | 6.0/10 |
