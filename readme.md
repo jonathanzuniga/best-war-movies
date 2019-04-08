@@ -57,3 +57,4 @@ If you want to contribute to this list and make it better, your help is very wel
 | [The Guns of Navarone](https://www.imdb.com/title/tt0054953/)       | 1961 | Action, Adventure, Drama  | 7.6/10 |
 | [The Pianist](https://www.imdb.com/title/tt0253474/)                | 2002 | Biography, Drama, Music   | 8.5/10 |
 | [Windtalkers](https://www.imdb.com/title/tt0245562/)                | 2002 | Action, Drama, War        | 6.0/10 |
+| [Where Eagles Dare](https://www.imdb.com/title/tt0065207/)          | 1968 | Action, Adventure, War    | 7.7/10 |
