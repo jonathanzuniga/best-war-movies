@@ -27,9 +27,11 @@ If you want to contribute to this list and make it better, your help is very wel
 
 ## Unclassified
 
-| TITLE                                        | YEAR | GENRE                   | RATING |
-| -------------------------------------------- | ---- | ----------------------- | ------ |
-| ['71](https://www.imdb.com/title/tt2614684/) | 2014 | Action, Drama, Thriller | 7.2/10 |
+| TITLE                                                     | YEAR | GENRE                   | RATING |
+| --------------------------------------------------------- | ---- | ----------------------- | ------ |
+| ['71](https://www.imdb.com/title/tt2614684/)              | 2014 | Action, Drama, Thriller | 7.2/10 |
+| [13 Hours](https://www.imdb.com/title/tt4172430/)         | 2016 | Action, Drama, History  | 7.3/10 |
+| [Zero Dark Thirty](https://www.imdb.com/title/tt1790885/) | 2012 | Drama, Thriller         | 7.4/10 |
 
 ## Vietnam War
 
@@ -41,6 +43,13 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War                   | 8.1/10 |
 | [Rescue Dawn](https://www.imdb.com/title/tt0462504/)       | 2006 | Action, Adventure, Biography | 7.3/10 |
 | [We Were Soldiers](https://www.imdb.com/title/tt0277434/)  | 2002 | Action, Drama, History       | 7.2/10 |
+
+## World War I
+
+| TITLE                                                            | YEAR | GENRE                     | RATING |
+| ---------------------------------------------------------------- | ---- | ------------------------- | ------ |
+| [Flyboys](https://www.imdb.com/title/tt0454824/)                 | 2006 | Action, Adventure, Drama  | 6.5/10 |
+| [They Shall Not Grow Old](https://www.imdb.com/title/tt7905466/) | 2018 | Documentary, History, War | 8.4/10 |
 
 ## World War II
 
@@ -60,6 +69,7 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Letters from Iwo Jima ](https://www.imdb.com/title/tt0498380/)     | 2006 | Drama, History, War       | 7.9/10 |
 | [Life Is Beautiful](https://www.imdb.com/title/tt0118799/)          | 1997 | Comedy, Drama, Romance    | 8.6/10 |
 | [Miracle at St. Anna](https://www.imdb.com/title/tt1046997/)        | 2008 | Action, Drama, War        | 6.0/10 |
+| [Pearl Harbor](https://www.imdb.com/title/tt0213149/)               | 2001 | Action, Drama, History    | 6.1/10 |
 | [Saving Private Ryan](https://www.imdb.com/title/tt0120815/)        | 1998 | Drama, War                | 8.6/10 |
 | [Schindler's List](https://www.imdb.com/title/tt0108052/)           | 1993 | Biography, Drama, History | 8.9/10 |
 | [The Book Thief](https://www.imdb.com/title/tt0816442/)             | 2013 | Drama, War                | 7.6/10 |
