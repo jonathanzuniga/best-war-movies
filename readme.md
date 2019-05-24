@@ -12,6 +12,15 @@ If you want to contribute to this list and make it better, your help is very wel
 | [Hotel Rwanda](https://www.imdb.com/title/tt0395169/)     | 2004 | Biography, Drama, History | 8.1/10 |
 | [Tears of the Sun](https://www.imdb.com/title/tt0314353/) | 2003 | Action, Drama, Thriller   | 6.6/10 |
 
+## Cold War
+
+| TITLE                                                             | YEAR | GENRE                       | RATING |
+| ----------------------------------------------------------------- | ---- | --------------------------- | ------ |
+| [Das Leben der Anderen](https://www.imdb.com/title/tt0405094/)    | 2006 | Drama, Thriller             | 8.4/10 |
+| [K-19: The Widowmaker](https://www.imdb.com/title/tt0267626/)     | 2002 | Drama, History, Thriller    | 6.7/10 |
+| [Rambo III](https://www.imdb.com/title/tt0095956/)                | 1988 | Action, Adventure, Thriller | 5.8/10 |
+| [The Hunt for Red October](https://www.imdb.com/title/tt0099810/) | 1990 | Action, Adventure, Thriller | 7.6/10 |
+
 ## Gulf War
 
 | TITLE                                            | YEAR | GENRE                 | RATING |
@@ -35,14 +44,15 @@ If you want to contribute to this list and make it better, your help is very wel
 
 ## Vietnam War
 
-| TITLE                                                      | YEAR | GENRE                        | RATING |
-| ---------------------------------------------------------- | ---- | ---------------------------- | ------ |
-| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)    | 1979 | Drama, War                   | 8.5/10 |
-| [Forrest Gump](https://www.imdb.com/title/tt0109830/)      | 1994 | Drama, Romance               | 8.8/10 |
-| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/) | 1987 | Drama, War                   | 8.3/10 |
-| [Platoon](https://www.imdb.com/title/tt0091763/)           | 1986 | Drama, War                   | 8.1/10 |
-| [Rescue Dawn](https://www.imdb.com/title/tt0462504/)       | 2006 | Action, Adventure, Biography | 7.3/10 |
-| [We Were Soldiers](https://www.imdb.com/title/tt0277434/)  | 2002 | Action, Drama, History       | 7.2/10 |
+| TITLE                                                               | YEAR | GENRE                        | RATING |
+| ------------------------------------------------------------------- | ---- | ---------------------------- | ------ |
+| [Apocalypse Now](https://www.imdb.com/title/tt0078788/)             | 1979 | Drama, War                   | 8.5/10 |
+| [Forrest Gump](https://www.imdb.com/title/tt0109830/)               | 1994 | Drama, Romance               | 8.8/10 |
+| [Full Metal Jacket](https://www.imdb.com/title/tt0093058/)          | 1987 | Drama, War                   | 8.3/10 |
+| [Platoon](https://www.imdb.com/title/tt0091763/)                    | 1986 | Drama, War                   | 8.1/10 |
+| [Rambo: First Blood Part II](https://www.imdb.com/title/tt0089880/) | 1985 | Action, Adventure, Thriller  | 6.5/10 |
+| [Rescue Dawn](https://www.imdb.com/title/tt0462504/)                | 2006 | Action, Adventure, Biography | 7.3/10 |
+| [We Were Soldiers](https://www.imdb.com/title/tt0277434/)           | 2002 | Action, Drama, History       | 7.2/10 |
 
 ## World War I
 
