@@ -58,6 +58,7 @@ If you want to contribute to this list and make it better, your help is very wel
 
 | TITLE                                                            | YEAR | GENRE                     | RATING |
 | ---------------------------------------------------------------- | ---- | ------------------------- | ------ |
+| [1917](https://www.imdb.com/title/tt8579674/)                    | 2019 | Drama, War                |        |
 | [Flyboys](https://www.imdb.com/title/tt0454824/)                 | 2006 | Action, Adventure, Drama  | 6.5/10 |
 | [They Shall Not Grow Old](https://www.imdb.com/title/tt7905466/) | 2018 | Documentary, History, War | 8.4/10 |
 
